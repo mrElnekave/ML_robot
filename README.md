@@ -6,3 +6,5 @@ This project will house the final project finished by july 1, until then all pro
 * Working with computer serial busses, this can send information to remote teensy controllers. [here](https://github.com/mrElnekave/lab1-2/)
 
 
+### Learning
+These projects required a great deal of learning as it was my first time playing around with Machine Learning, [here](https://github.com/mrElnekave/MachineLearningNg.git) is my interactive notebook for Andrew Ng's Machine Learning specialization
