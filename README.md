@@ -1,6 +1,15 @@
+
 # ML_robot
 
-This project will house the final project finished by july 1, until then all project peices live in the following repos:
+### Final product
+
+https://github.com/mrElnekave/ML_robot/assets/52299477/ce460920-0fc1-42ca-aa6c-d82240f9de7e
+
+### Final demo
+
+https://github.com/mrElnekave/ML_robot/assets/52299477/fa8116f5-b666-4c1a-8d4d-52eeb1fcc4a5
+
+### Prototypes
 
 * Robot that can move using gradient descent and inverse kinematics. [here](https://github.com/mrElnekave/reacher-lab)
     * ![Screenshot_20230604-092404](https://github.com/mrElnekave/ML_robot/assets/52299477/3111277e-f44c-478d-b178-94ed83afa408)
